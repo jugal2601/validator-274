@@ -1,0 +1,18 @@
+
+
+Included Files:
+	*validate.py
+	*README
+
+Running Instructions: 
+
+below the like "__main__:" line please enter both of the following lines
+	*"validate((word))"
+	*"generate(n)"
+
+Notes and Assumptions:
+
+	I am assuming that you are going to input the value n for the generate function, as I have not added a statement that uses a random n value.
+	I am not sure if I was supposed to, but if i was supposed to this is the line I would have entered. 
+	"n=random.randint(8,15)" 
+	#keeping the max length to 15. 
